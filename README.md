@@ -2,9 +2,9 @@
 <img align="justify" alt="Web-developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2021%2F07%2Ffull-stack-development.gif&f=1&nofb=1&ipt=685aaa984172d5869b334b26fd35acfb25895ac747151e50db0d7229e9bd9baa&ipo=images">
 <h3 align="center">I'am a Web Developer. I've honed my skills in HTML, CSS, and JavaScript, and JAVA</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, ReactJs, Laravel, and Codeigniter4**
+- 🌱 I’m currently learning **HTML, CSS, ReactJs, Laravel, and JAVA**
 
-- 👨‍💻 Some of my projects, and my CV can be seen at (https://my-portofolio.fadlyfebro.repl.co/)
+- 👨‍💻 Some of my projects, and my CV can be seen at ([https://my-portofolio.fadlyfebro.repl.co/](https://my-portofolio-theta-ivory.vercel.app/))
 
 - 📫 Reach me via email **fadlyfebro@gmail.com**
 <h3 align="left">Connect with me:</h3>
