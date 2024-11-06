@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, ReactJs, Laravel, and JAVA**
 
-- 👨‍💻 Some of my projects, and my CV can be seen at ([https://my-portofolio.fadlyfebro.repl.co/](https://my-portofolio-theta-ivory.vercel.app/))
+- 👨‍💻 Some of my projects, and my CV can be seen at ([https://www.fadlyfebro.my.id/](https://www.fadlyfebro.my.id/))
 
 - 📫 Reach me via email **fadlyfebro@gmail.com**
 <h3 align="left">Connect with me:</h3>
